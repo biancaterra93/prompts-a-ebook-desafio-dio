@@ -37,25 +37,18 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em Engajamento e retenção, listando as principais métricas usadas atualmente {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Gemini：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título |  |
+| título |  Crie uma capa ilustrada e divertida para um eBook com o título “Engajou, Ficou!”. A arte deve ter estilo cartoon, leve e colorido, transmitindo alegria, parceria e conexão entre empresa e cliente. Mostre pessoas felizes interagindo com um produto digital, gráficos de crescimento, ícones de chat e corações, representando relacionamento e fidelização.Use cores vibrantes, especialmente  marrom, bege e rosa, com fundo limpo e visual moderno. O estilo deve ser profissional e amigável, equilibrando elementos de negócios com um toque criativo.|
 
-## ✨ Features
+## ✨ Como foi realizado? 
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagem geradas via Gemini
+- Apresentação gerada via Gamma
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
@@ -81,5 +74,3 @@ felipe-exe">LinkedIn</a>
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
