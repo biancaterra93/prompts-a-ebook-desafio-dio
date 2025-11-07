@@ -41,7 +41,8 @@ Gemini：
 - Apresentação gerada via Gamma
 
 
-## Veja o resultado completo do Ebook:
+### Veja o resultado completo do Ebook:
+[AQUI](output/O-Guia-Pratico-para-Encantar-e-Reter-Clientes.pdf)
 
 
 ## 👨‍💻 Expert
