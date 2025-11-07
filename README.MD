@@ -11,7 +11,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src=".github/assets/Gemini_Generated_Image_2w2rka2w2rka2w2r.png"
     width="400"  
 />
 </p>
