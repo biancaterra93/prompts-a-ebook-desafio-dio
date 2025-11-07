@@ -17,15 +17,8 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Desafio EBOOK Gerado por I.A.s - DIO
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -40,15 +33,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de Engajamento e Retenção, o ebook é do nicho de sucesso do cliente e o subnicho é de engajamento e retenção, o título deve ser divertido e amigável. me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em Engajamento e retenção, listando as principais métricas usadas atualmente {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título |  |
 
 ## ✨ Features
 
