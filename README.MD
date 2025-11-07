@@ -41,6 +41,9 @@ Gemini：
 - Apresentação gerada via Gamma
 
 
+## Veja o resultado completo do Ebook:
+
+
 ## 👨‍💻 Expert
 
 <p>
@@ -48,20 +51,13 @@ Gemini：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src=".github/assets/Gemini_Generated_Image_2w2rka2w2rka2w2r.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbsp Bianca Terra<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 felipe-exe">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
+  
